@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+"kontol apa kau cari di robots.txt"
